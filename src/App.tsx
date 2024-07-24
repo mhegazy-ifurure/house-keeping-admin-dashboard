@@ -2,7 +2,6 @@ import "./App.css";
 import { Admin, EditGuesser, ListGuesser, Resource, ShowGuesser } from "react-admin";
 import authProvider from "./utils/authProvider";
 import LoginPage from "./components/Login/LoginPage";
-import simpleRestProvider from "ra-data-simple-rest";
 import EmojiPeopleIcon from '@mui/icons-material/EmojiPeople';
 import SensorOccupiedIcon from '@mui/icons-material/SensorOccupied';
 import SwipeRightIcon from '@mui/icons-material/SwipeRight';
